@@ -1,0 +1,2 @@
+rootProject.name = "emailcredit"
+include ':app'
